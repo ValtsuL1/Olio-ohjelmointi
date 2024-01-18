@@ -1,0 +1,15 @@
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\bin\Debug\net7.0\tehtava.exe
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\bin\Debug\net7.0\tehtava.deps.json
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\bin\Debug\net7.0\tehtava.runtimeconfig.json
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\bin\Debug\net7.0\tehtava.dll
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\bin\Debug\net7.0\tehtava.pdb
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.csproj.AssemblyReference.cache
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.GeneratedMSBuildEditorConfig.editorconfig
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.AssemblyInfoInputs.cache
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.AssemblyInfo.cs
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.csproj.CoreCompileInputs.cache
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.dll
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\refint\tehtava.dll
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.pdb
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\tehtava.genruntimeconfig.cache
+B:\Koulu\2 vuosi\Olio-ohjelmointi\Tehtävät\4\tehtava_4.4\obj\Debug\net7.0\ref\tehtava.dll
